@@ -28,5 +28,5 @@ Warmed seats for more solace.
 Exceptionally powerful during cold winters.
 ## WHERE
 In the seats of the vehicle.
-## OW
+## HOW
 Warming framework inside the seat
