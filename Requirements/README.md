@@ -30,3 +30,14 @@ Exceptionally powerful during cold winters.
 In the seats of the vehicle.
 ## HOW
 Warming framework inside the seat
+# HLR
+|ID|Descrption|Status|
+|--|----------|------|
+|HR01|Supply PWM signals based on the required temperature|Implemented|
+|HR02|Should possibly be enacted when the driver is seated|Implemented|
+|HR03|Ought to have the option to switch OFF physically|Implemented|
+# LLR
+|ID|Descrption|Status|
+|--|----------|------|
+|LR01|Dependability of the switch associated with the seat|Implemented|
+|LR02|Indicate the obligation cycles in light of the temperature|Implemented|
